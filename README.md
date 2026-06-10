@@ -17,5 +17,3 @@ As imagens usadas neste projeto foram obtidas nos seguintes sites gratuitos de i
 - **pigmentacao.jpg** – Pexels
 - **sobrancelha.avif** – Pexels
 - **sobre.jpg** – Pexels
-
-Sinta-se à vontade para substituir as informações de origem pela atribuição exata exigida por cada provedor de imagens.
